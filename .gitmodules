@@ -1,3 +1,6 @@
 [submodule "jmsd_original_openssl"]
 	path = jmsd_original_openssl
 	url = https://github.com/jiteman/jmsd_original_openssl.git
+[submodule "jmsd_original_eastl"]
+	path = jmsd_original_eastl
+	url = https://github.com/jiteman/jmsd_original_eastl.git
