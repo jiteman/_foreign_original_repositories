@@ -7,3 +7,6 @@
 [submodule "jmsd_original_poco"]
 	path = jmsd_original_poco
 	url = https://github.com/jiteman/jmsd_original_poco.git
+[submodule "jmsd_original_poco_openssl"]
+	path = jmsd_original_poco_openssl
+	url = https://github.com/jiteman/jmsd_original_poco_openssl.git
