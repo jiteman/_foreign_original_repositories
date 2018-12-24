@@ -4,3 +4,6 @@
 [submodule "jmsd_original_eastl"]
 	path = jmsd_original_eastl
 	url = https://github.com/jiteman/jmsd_original_eastl.git
+[submodule "jmsd_original_poco"]
+	path = jmsd_original_poco
+	url = https://github.com/jiteman/jmsd_original_poco.git
