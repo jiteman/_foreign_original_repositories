@@ -13,3 +13,6 @@
 [submodule "jmsd_original_cppunitlite"]
 	path = jmsd_original_cppunitlite
 	url = https://github.com/jiteman/jmsd_original_cppunitlite.git
+[submodule "jmsd_original_cppunit_libreoffice"]
+	path = jmsd_original_cppunit_libreoffice
+	url = https://github.com/jiteman/jmsd_original_cppunit_libreoffice.git
