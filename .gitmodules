@@ -16,3 +16,6 @@
 [submodule "jmsd_original_cppunit_libreoffice"]
 	path = jmsd_original_cppunit_libreoffice
 	url = https://github.com/jiteman/jmsd_original_cppunit_libreoffice.git
+[submodule "jmsd_original_googletest"]
+	path = jmsd_original_googletest
+	url = https://github.com/jiteman/jmsd_original_googletest.git
