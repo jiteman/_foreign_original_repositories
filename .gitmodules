@@ -22,3 +22,6 @@
 [submodule "jmsd_original_cppunit_lite_zeil"]
 	path = jmsd_original_cppunit_lite_zeil
 	url = https://github.com/jiteman/jmsd_original_cppunit_lite_zeil.git
+[submodule "jmsd_original_catch_2"]
+	path = jmsd_original_catch_2
+	url = https://github.com/jiteman/jmsd_original_catch_2.git
