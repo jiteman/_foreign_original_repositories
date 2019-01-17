@@ -22,3 +22,6 @@
 [submodule "jmsd_original_catch_2"]
 	path = jmsd_original_catch_2
 	url = https://github.com/jiteman/jmsd_original_catch_2.git
+[submodule "jmsd_original_xunit"]
+	path = jmsd_original_xunit
+	url = https://github.com/jiteman/jmsd_original_xunit.git
