@@ -34,3 +34,6 @@
 [submodule "jmsd_original_cxxtest"]
 	path = jmsd_original_cxxtest
 	url = https://github.com/jiteman/jmsd_original_cxxtest.git
+[submodule "jmsd_original_igloo"]
+	path = jmsd_original_igloo
+	url = https://github.com/jiteman/jmsd_original_igloo.git
