@@ -25,3 +25,6 @@
 [submodule "jmsd_original_xunit"]
 	path = jmsd_original_xunit
 	url = https://github.com/jiteman/jmsd_original_xunit.git
+[submodule "jmsd_original_cpputest"]
+	path = jmsd_original_cpputest
+	url = https://github.com/jiteman/jmsd_original_cpputest.git
