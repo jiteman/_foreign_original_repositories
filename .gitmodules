@@ -46,3 +46,6 @@
 [submodule "jmsd_original_hippomocks"]
 	path = jmsd_original_hippomocks
 	url = https://github.com/jiteman/jmsd_original_hippomocks.git
+[submodule "jmsd_original_mockcpp"]
+	path = jmsd_original_mockcpp
+	url = https://github.com/jiteman/jmsd_original_mockcpp.git
