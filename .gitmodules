@@ -55,3 +55,6 @@
 [submodule "jmsd_original_mockpp"]
 	path = jmsd_original_mockpp
 	url = https://github.com/jiteman/jmsd_original_mockpp.git
+[submodule "jmsd_original_trompeloeil"]
+	path = jmsd_original_trompeloeil
+	url = https://github.com/jiteman/jmsd_original_trompeloeil.git
