@@ -28,3 +28,6 @@
 [submodule "jmsd_original_cpputest"]
 	path = jmsd_original_cpputest
 	url = https://github.com/jiteman/jmsd_original_cpputest.git
+[submodule "jmsd_original_criterion"]
+	path = jmsd_original_criterion
+	url = https://github.com/jiteman/jmsd_original_criterion.git
