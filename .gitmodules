@@ -52,3 +52,6 @@
 [submodule "jmsd_original_mockitopp"]
 	path = jmsd_original_mockitopp
 	url = https://github.com/jiteman/jmsd_original_mockitopp.git
+[submodule "jmsd_original_mockpp"]
+	path = jmsd_original_mockpp
+	url = https://github.com/jiteman/jmsd_original_mockpp.git
