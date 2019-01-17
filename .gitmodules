@@ -37,3 +37,6 @@
 [submodule "jmsd_original_igloo"]
 	path = jmsd_original_igloo
 	url = https://github.com/jiteman/jmsd_original_igloo.git
+[submodule "jmsd_original_tpunitpp"]
+	path = jmsd_original_tpunitpp
+	url = https://github.com/jiteman/jmsd_original_tpunitpp.git
