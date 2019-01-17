@@ -31,3 +31,6 @@
 [submodule "jmsd_original_criterion"]
 	path = jmsd_original_criterion
 	url = https://github.com/jiteman/jmsd_original_criterion.git
+[submodule "jmsd_original_cxxtest"]
+	path = jmsd_original_cxxtest
+	url = https://github.com/jiteman/jmsd_original_cxxtest.git
