@@ -43,3 +43,6 @@
 [submodule "jmsd_original_fakeit"]
 	path = jmsd_original_fakeit
 	url = https://github.com/jiteman/jmsd_original_fakeit.git
+[submodule "jmsd_original_hippomocks"]
+	path = jmsd_original_hippomocks
+	url = https://github.com/jiteman/jmsd_original_hippomocks.git
