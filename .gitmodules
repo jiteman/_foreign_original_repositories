@@ -40,3 +40,6 @@
 [submodule "jmsd_original_tpunitpp"]
 	path = jmsd_original_tpunitpp
 	url = https://github.com/jiteman/jmsd_original_tpunitpp.git
+[submodule "jmsd_original_fakeit"]
+	path = jmsd_original_fakeit
+	url = https://github.com/jiteman/jmsd_original_fakeit.git
