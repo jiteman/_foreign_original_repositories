@@ -58,3 +58,6 @@
 [submodule "jmsd_original_trompeloeil"]
 	path = jmsd_original_trompeloeil
 	url = https://github.com/jiteman/jmsd_original_trompeloeil.git
+[submodule "jmsd_original_cute"]
+	path = jmsd_original_cute
+	url = https://github.com/jiteman/jmsd_original_cute.git
