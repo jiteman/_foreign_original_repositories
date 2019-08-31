@@ -61,3 +61,6 @@
 [submodule "jmsd_original_cute"]
 	path = jmsd_original_cute
 	url = https://github.com/jiteman/jmsd_original_cute.git
+[submodule "jmsd_original_ea"]
+	path = jmsd_original_ea
+	url = https://github.com/jiteman/jmsd_original_ea.git
